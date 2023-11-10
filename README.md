@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal-Finance-Management-SystemPersonal-Finance-Management-System](https://github.com/SagiMoraly/Personal-Finance-Management-System)
 
-- 🌱 I’m currently learning **AWS and Angular**
+- 🌱 I’m currently learning **AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
